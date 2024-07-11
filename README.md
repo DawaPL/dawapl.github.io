@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Dawa P Lodey's Portfolio</title>
@@ -6,7 +5,7 @@
 <body>
 
   <header>
-    <h1>Dawa P Lodey</h1>
+    <h1>Hey, I'm Dawa P Lodey</h1>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>
@@ -20,12 +19,12 @@
   <main>
     <section id="home">
       <h2>Welcome!</h2>
-      <p>Welcome to my cybersecurity portfolio. Here you'll find information about my experience, projects, and how to get in touch.</p>
+      <p>Welcome to my portfolio. Here you'll find information about my experience, projects, and how to get in touch.</p>
     </section>
   </main>
 
   <footer>
-    <p>&copy; 2023 Dawa P Lodey</p>
+    <p>&copy; 2024 Dawa P Lodey</p>
   </footer>
 
 </body>
