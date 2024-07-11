@@ -1,33 +1,3 @@
-<html>
-<head>
-  <title>Dawa P Lodey's Portfolio</title>
-  <link rel="stylesheet" href="style.css"> </head>
-<body>
+This repository hosts my personal blog, available at [dawapl.github.io](https://dawapl.github.io).
 
-  <header>
-    <h1>Hey, I'm Dawa P Lodey</h1>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="projects.html">Projects</a></li>
-        <li><a href="blogs.html">Myblog</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <main>
-    <section id="home">
-      <h2>Welcome!</h2>
-      <p>Welcome to my portfolio. Here you'll find information about my experience, projects, and how to get in touch.</p>
-    </section>
-  </main>
-
-  <footer>
-    <p>&copy; 2024 Dawa P Lodey</p>
-  </footer>
-
-</body>
-</html>
-
+#I did not create this jekyll theme myself, its shamelessly stolen from https://github.com/stared/stared.github.io. #
