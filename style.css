@@ -1,0 +1,4 @@
+.blog-post time {
+  display: inline; /* Make the date display inline */
+  margin-right: 5px; /* Add a small margin to the right of the date */
+}
